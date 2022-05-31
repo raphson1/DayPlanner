@@ -1,5 +1,3 @@
-console.log("test")
-
 // moment
 
 function todaysDate (){
@@ -76,3 +74,4 @@ var myAgenda = [
     },
     
 ]
+
